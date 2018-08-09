@@ -14,7 +14,7 @@ This will be in reverse chronilogical order with the most recent and relevent in
   - Working through android game programming course on [gamecodeschool.com](http://gamecodeschool.com/courses/android-game-programming/) 
 ### Past Learning
 
-  ####  Newcastle University [results report document](https://core.digitary.net/#/sharelink/e5502b6e-56ab-46dc-882b-d68ecc7ad2ff/4b8a081b-5ba1-44c7-80de-1712e47d5854)
+**Newcastle University** [results report document](https://core.digitary.net/#/sharelink/e5502b6e-56ab-46dc-882b-d68ecc7ad2ff/4b8a081b-5ba1-44c7-80de-1712e47d5854)
   - Year 2 (*First 79.2% avg*)
     - Software Engineering
     - Software Engineering Team Project(Java/Android)(XML)(Google Maps API)(Git)(Teamwork)
@@ -30,7 +30,7 @@ This will be in reverse chronilogical order with the most recent and relevent in
     - Mathematics for Computer Science
     - Website Design and Construction(HTML, CSS, JS)
   
-  ####  York College [scan of results](http://www.example.com)
+  **York College** [scan of results](http://www.example.com)
   Btec in Software Development achieving the highest grade possible of Triple Distinction Star.
   - Year 2 (D* D* D*)
     - module
@@ -47,14 +47,14 @@ This will be in reverse chronilogical order with the most recent and relevent in
     - module
     - module
     
-#### C++
+**C++**
   - C++ for engineers
   - more
-#### Java
+**Java**
   - Java for Dummies
   - more
   
-#### Visual Basic
+**Visual Basic**
   - Sams Teach yourself VB in 24 Hours
   - more
 ## Contact Me!
