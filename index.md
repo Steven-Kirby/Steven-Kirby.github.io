@@ -20,7 +20,7 @@ App for local council called seaton valley (Java)
 
 ![Demo Video](http://steven-kirby.github.io/SeatonValleyDemo.gif)
 
-[Have a look at Seaton-Valley-Council-App](https://github.com/Steven-Kirby/Seaton-Valley-Council-App)
+Have a look at some of the code involved for [Seaton-Valley-Council-App](https://github.com/Steven-Kirby/Seaton-Valley-Council-App)
 
 - Website - [retrohub.co.uk](http://retrohub.co.uk) (*personal*)
 
