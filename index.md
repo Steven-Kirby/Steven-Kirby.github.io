@@ -14,7 +14,7 @@ View my [current project on GitHub here](https://github.com/Steven-Kirby) to see
 ## Past Projects
 View my [past projects on GitHub here](https://github.com/Steven-Kirby) to see what i have worked on in the past.
 
-- Team Project (*university*) 
+- Team Project - [download app for android](http://retrohub.co.uk/app.php) (*university*) 
 
 App for local council called seaton valley (Java)
 
@@ -55,7 +55,7 @@ This will be in reverse chronilogical order with the most recent and relevent in
     - [The Software Engineering Professional](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC1023)
     - [Computer Architecture](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC1024) (Assembly)
     - [Mathematics for Computer Science](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC1025)
-    - [Website Design and Construction]](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC1026) (HTML, CSS, JS)
+    - [Website Design and Construction](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC1026) (HTML, CSS, JS)
   
   **York College** [scan of results](http://www.example.com)
   
