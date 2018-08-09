@@ -20,6 +20,8 @@ App for local council called seaton valley (Java)
 
 ![Demo Video](http://steven-kirby.github.io/SeatonValleyDemo.gif)
 
+[Have a look at Seaton-Valley-Council-App](https://github.com/Steven-Kirby/Seaton-Valley-Council-App)
+
 - Website - [retrohub.co.uk](http://retrohub.co.uk) (*personal*)
 
 retrohub.co.uk is a ecommerce site for selling retro video games such as N64 and PS1, 360 degree view of items photographed in 35 images(not recommended for 3g/4g mobile data viewing). 
