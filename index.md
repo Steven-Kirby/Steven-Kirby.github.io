@@ -1,5 +1,5 @@
-## Welcome!
-### Feel free to browse my [portfolio](https://Steven-Kirby.github.io) and [github](https://github.com/Steven-Kirby)
+# Welcome!
+Feel free to browse my [portfolio](https://Steven-Kirby.github.io) and [github](https://github.com/Steven-Kirby)
 
 ## Current Project
 View my [current project on GitHub here](https://github.com/Steven-Kirby) to see what im working on at the moment.
