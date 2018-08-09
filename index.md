@@ -8,9 +8,29 @@ View my [current project on GitHub here](https://github.com/Steven-Kirby) to see
 View my [past projects on GitHub here](https://github.com/Steven-Kirby) to see what i have worked on in the past.
 
 ## Learning Experience
-### Current Learning Goals
+Any resources i have used to help me learn from and use as a reference in case i need to look over it again, including YouTube, Books, University Modules/College  and Websites such as Stack Overflow, GitHub and any others i see fit.
+This will be in reverse chronilogical order with the most recent and relevent information at the top of the list.
+### Current Learning Goal
 
-### Past Learning accomplishments
+### Past Learning
 
-## Contact me!
+#### Newcastle University [results report document](https://core.digitary.net/#/sharelink/e5502b6e-56ab-46dc-882b-d68ecc7ad2ff/4b8a081b-5ba1-44c7-80de-1712e47d5854)
+- Year 2
+  - Software Engineering
+  - Software Engineering Team Project(Android)(Git)(Teamwork)
+  - Algorithm Design and Analysis
+  - Database Technology(MySQL)
+  - Operating Systems(Minix)(C)
+  - Computer Networks(C)
+- Year 1
+  - Programming I(Java)
+  - Programming II(Java)
+  - The Software Engineering Professional
+  - Computer Architecture(ASM)
+  - Mathematics for Computer Science
+  - Website Design and Construction(HTML, CSS, JS)
+#### York College
+
+
+## Contact Me!
 To contact me about anything, you can [message me on github](https://github.com/Steven-Kirby) or you can [email me](mailto:stevenkirbygames@gmail.com)
