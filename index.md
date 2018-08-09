@@ -20,7 +20,7 @@ App for local council called seaton valley (Java)
 
 - Website - [retrohub.co.uk](http://retrohub.co.uk) (*personal*)
 
-retrohub.co.uk is a ecommerce site for selling retro video games such as N64 and PS1
+retrohub.co.uk is a ecommerce site for selling retro video games such as N64 and PS1, 360 degree view of items photographed in 35 images(not recommended for 3g/4g mobile data viewing). 
 
 ## Learning Experience
 Any resources i have used to help me learn from and use as a reference in case i need to look over it again, including YouTube, Books, University/College and Websites such as Stack Overflow, GitHub and any others i see fit.
