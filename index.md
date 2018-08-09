@@ -17,6 +17,7 @@ View my [past projects on GitHub here](https://github.com/Steven-Kirby) to see w
 - Team Project - [download app for android(auto 4.9mb)](http://retrohub.co.uk/app.php) (*university*) 
 
 App for local council called seaton valley (Java)
+
 ![Demo Video](http://steven-kirby.github.io/SeatonValleyDemo.gif)
 
 - Website - [retrohub.co.uk](http://retrohub.co.uk) (*personal*)
