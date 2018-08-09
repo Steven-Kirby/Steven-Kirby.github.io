@@ -14,7 +14,7 @@ View my [current project on GitHub here](https://github.com/Steven-Kirby) to see
 ## Past Projects
 View my [past projects on GitHub here](https://github.com/Steven-Kirby) to see what i have worked on in the past.
 
-- Team Project - [download app for android](http://retrohub.co.uk/app.php) (*university*) 
+- Team Project - [download app for android(auto 4.9mb)](http://retrohub.co.uk/app.php) (*university*) 
 
 App for local council called seaton valley (Java)
 
