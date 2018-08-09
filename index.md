@@ -1,11 +1,26 @@
 # Welcome!
 Feel free to browse my [portfolio](https://Steven-Kirby.github.io) and [github repository](https://github.com/Steven-Kirby)
+## A Little Bit About Me
+
+I am a **mature student** studying on a 3 year undergraduate course in **Computer Science(Game Eng)** at **Newcastle University** in my final year of study.
+
+Looking to get into **programming within the games industry**.
+
+Enjoy web development and know most aspects of it to build a fully working site of any type, from security and databases to design.
 
 ## Current Project
 View my [current project on GitHub here](https://github.com/Steven-Kirby) to see what im working on at the moment.
 
 ## Past Projects
 View my [past projects on GitHub here](https://github.com/Steven-Kirby) to see what i have worked on in the past.
+
+- Team Project(*university*) 
+
+App for local council called seaton valley(java)
+
+- Website - [retrohub.co.uk](http://retrohub.co.uk)(*personal*)
+
+retrohub.co.uk is a ecommerce site for selling retro video games such as N64 and PS1
 
 ## Learning Experience
 Any resources i have used to help me learn from and use as a reference in case i need to look over it again, including YouTube, Books, University/College and Websites such as Stack Overflow, GitHub and any others i see fit.
@@ -31,6 +46,7 @@ This will be in reverse chronilogical order with the most recent and relevent in
     - Website Design and Construction(HTML, CSS, JS)
   
   **York College** [scan of results](http://www.example.com)
+  
   Btec in Software Development achieving the highest grade possible of Triple Distinction Star.
   - Year 2 (D* D* D*)
     - module
@@ -50,6 +66,7 @@ This will be in reverse chronilogical order with the most recent and relevent in
 **C++**
   - C++ for engineers
   - more
+  
 **Java**
   - Java for Dummies
   - more
