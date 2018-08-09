@@ -31,16 +31,18 @@ This will be in reverse chronilogical order with the most recent and relevent in
   - Working through android game programming course on [gamecodeschool.com](http://gamecodeschool.com/courses/android-game-programming/)
   
 **Newcastle University**
-    - Year 3 (*N/A - aiming to achieve a first*)
-      - [Programming for Games](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3221)
-      - [Gaming Simulations](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3222)
-      - [Graphics for Games](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3223)
-      - [Computer Games Development](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3224)
-      - [Mobile Computer Systems Development](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3122)
-      - [Web Technologies](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3123)
-      - [System and Network Security](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3124)
-      - [Website Construction and Management (Server-Side)](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3422)
-      - [Project and Dissertation in Computing Science](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3095)
+
+  - Year 3 (*N/A - aiming to achieve a first*)
+    - [Programming for Games](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3221)
+    - [Gaming Simulations](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3222)
+    - [Graphics for Games](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3223)
+    - [Computer Games Development](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3224)
+    - [Mobile Computer Systems Development](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3122)
+    - [Web Technologies](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3123)
+    - [System and Network Security](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3124)
+    - [Website Construction and Management (Server-Side)](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3422)
+    - [Project and Dissertation in Computing Science](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3095)
+      
 ### Past Learning
 
 **Newcastle University** [results report document](https://core.digitary.net/#/sharelink/e5502b6e-56ab-46dc-882b-d68ecc7ad2ff/4b8a081b-5ba1-44c7-80de-1712e47d5854)
