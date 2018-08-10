@@ -91,7 +91,7 @@ This will be in reverse chronilogical order with the most recent and relevent in
     - Project Planning With IT
     - Controlling Systems Using IT
     
-  - Year 1 (_D* D*_)
+  - Year 1 (_D* D*_) 
     - Event Driven Programming
     - Spreadsheet Modelling
     - Computer Systems
@@ -102,6 +102,8 @@ This will be in reverse chronilogical order with the most recent and relevent in
     - Software Design and Development
     - Systems Analysis and Design
     
+  Won a BITS(*Brilliant IT Students*) award, nominated by class tutor(1 per class of around 30).
+  
 **C++**
   - C++ for engineers
   - more
