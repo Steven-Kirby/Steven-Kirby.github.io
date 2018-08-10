@@ -14,7 +14,7 @@ View my [current project on GitHub here](https://github.com/Steven-Kirby) to see
 ## Past Projects
 View my [past projects on GitHub here](https://github.com/Steven-Kirby) to see what i have worked on in the past.
 
-- Team Project - [download app for android(auto 4.9mb)](http://retrohub.co.uk/app.php) (*university*) 
+**Team Project** - [download app for android(auto 4.9mb)](http://retrohub.co.uk/app.php) (*university*) 
 
 App for local council called seaton valley (Java)
 
@@ -22,9 +22,15 @@ App for local council called seaton valley (Java)
 
 Have a look at some of the code involved for [Seaton-Valley-Council-App](https://github.com/Steven-Kirby/Seaton-Valley-Council-App)
 
-- Website - [retrohub.co.uk](http://retrohub.co.uk) (*personal*)
+**Website** - [retrohub.co.uk](http://retrohub.co.uk) (*personal*)
 
 retrohub.co.uk is a ecommerce site for selling retro video games such as N64 and PS1, 360 degree view of items photographed in 35 images(not recommended for 3g/4g mobile data viewing). 
+
+**Photo Watermarker** - 
+
+This program was made for a friend who was paying silly prices for a website to watermark her photography with a very simple overlay and needed to upload all her photos to the website. As i had needed one before this i had a half done program and adapted it to her needs.
+
+Have a look here at the code for [Photo Watermarker](https://github.com/Steven-Kirby/Photo-Watermarker)
 
 ## Learning Experience
 Any resources i have used to help me learn from and use as a reference in case i need to look over it again, including YouTube, Books, University/College and Websites such as Stack Overflow, GitHub and any others i see fit.
