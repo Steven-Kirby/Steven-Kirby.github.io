@@ -9,8 +9,17 @@ Looking to get into **programming within the games industry**.
 Enjoy web development and know most aspects of it to build a fully working site of any type, from security and databases to design.
 
 ## Current Projects ##
-View my [current project on GitHub here](https://github.com/Steven-Kirby) to see what im working on at the moment.
+View my [current project on GitHub here](https://github.com/Steven-Kirby/Simple-Snake-2D) Simple Snake 2D.
 
+**Simple Snake 2D**
+This is based on the classic nokia game Snake, i hope to add extra interesting features such as upgradeable snakes with ranks after the basic implementation is solid with maps of your own design using text maps and random fruit spawn.
+
+- [x] Create classes expected to be used
+- [ ] Implement a singular cube as snake
+- [ ] Implement map and collision
+- [ ] Implement fruit
+- [ ] Implement growing snake
+- [ ] ......
 ## Past Projects ##
 View my [past projects on GitHub here](https://github.com/Steven-Kirby) to see what i have worked on in the past.
 
