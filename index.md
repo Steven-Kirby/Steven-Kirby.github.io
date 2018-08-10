@@ -8,10 +8,10 @@ Looking to get into **programming within the games industry**.
 
 Enjoy web development and know most aspects of it to build a fully working site of any type, from security and databases to design.
 
-## Current Project
+## Current Project ##
 View my [current project on GitHub here](https://github.com/Steven-Kirby) to see what im working on at the moment.
 
-## Past Projects
+## Past Projects ##
 View my [past projects on GitHub here](https://github.com/Steven-Kirby) to see what i have worked on in the past.
 
 **Team Project** - [download app for android(auto 4.9mb)](http://retrohub.co.uk/app.php) (*university*) 
@@ -40,7 +40,7 @@ After (Done in less then a second)
 
 Have a look here at the code for [Photo Watermarker](https://github.com/Steven-Kirby/Photo-Watermarker)
 
-## Education and Learning
+## Education and Learning ##
 Any resources i have used to help me learn from and use as a reference in case i need to look over it again, including YouTube, Books, University/College and Websites such as Stack Overflow, GitHub and any others i see fit.
 This will be in reverse chronilogical order with the most recent and relevent information at the top of the list.
 ### Current Goals
@@ -59,7 +59,7 @@ This will be in reverse chronilogical order with the most recent and relevent in
     - [Website Construction and Management (Server-Side)](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3422)
     - [Project and Dissertation in Computing Science](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3095)
       
-### Past Education and Learning
+### Past Education and Learning ##
 
 **Newcastle University** [results report document](https://core.digitary.net/#/sharelink/e5502b6e-56ab-46dc-882b-d68ecc7ad2ff/4b8a081b-5ba1-44c7-80de-1712e47d5854)
   - Year 2 (*First 79.2% avg*)
