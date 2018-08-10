@@ -40,10 +40,10 @@ After (Done in less then a second)
 
 Have a look here at the code for [Photo Watermarker](https://github.com/Steven-Kirby/Photo-Watermarker)
 
-## Learning Experience
+## Education and Learning
 Any resources i have used to help me learn from and use as a reference in case i need to look over it again, including YouTube, Books, University/College and Websites such as Stack Overflow, GitHub and any others i see fit.
 This will be in reverse chronilogical order with the most recent and relevent information at the top of the list.
-### Current Learning Goal
+### Current Goals
   - Working through android game programming course on [gamecodeschool.com](http://gamecodeschool.com/courses/android-game-programming/)
   
 **Newcastle University**
@@ -59,7 +59,7 @@ This will be in reverse chronilogical order with the most recent and relevent in
     - [Website Construction and Management (Server-Side)](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3422)
     - [Project and Dissertation in Computing Science](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC3095)
       
-### Past Learning
+### Past Education and Learning
 
 **Newcastle University** [results report document](https://core.digitary.net/#/sharelink/e5502b6e-56ab-46dc-882b-d68ecc7ad2ff/4b8a081b-5ba1-44c7-80de-1712e47d5854)
   - Year 2 (*First 79.2% avg*)
