@@ -8,7 +8,7 @@ Looking to get into **programming within the games industry**.
 
 Enjoy web development and know most aspects of it to build a fully working site of any type, from security and databases to design.
 
-## Current Project ##
+## Current Projects ##
 View my [current project on GitHub here](https://github.com/Steven-Kirby) to see what im working on at the moment.
 
 ## Past Projects ##
