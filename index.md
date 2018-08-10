@@ -18,7 +18,7 @@ View my [past projects on GitHub here](https://github.com/Steven-Kirby) to see w
 
 App for local council called seaton valley (Java)
 
-![Demo Video](http://steven-kirby.github.io/SeatonValleyDemo.gif)
+![Demo Video](/SeatonValleyDemo.gif)
 
 Have a look at some of the code involved for [Seaton-Valley-Council-App](https://github.com/Steven-Kirby/Seaton-Valley-Council-App)
 
@@ -29,6 +29,14 @@ retrohub.co.uk is a ecommerce site for selling retro video games such as N64 and
 **Photo Watermarker** - 
 
 This program was made for a friend who was paying silly prices for a website to watermark her photography with a very simple overlay and needed to upload all her photos to the website. As i had needed one before this i had a half done program and adapted it to her needs.
+
+Before
+
+![before watermarking](/BeforeWatermarkedFolder.JPG)
+
+After (Done in less then a second)
+
+![after watermarking](/WatermarkedFolder.JPG)
 
 Have a look here at the code for [Photo Watermarker](https://github.com/Steven-Kirby/Photo-Watermarker)
 
