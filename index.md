@@ -54,7 +54,7 @@ Any resources i have used to help me learn from and use as a reference in case i
 This will be in reverse chronilogical order with the most recent and relevent information at the top of the list.
 ### Current Goals
   - Working through android game programming course on [gamecodeschool.com](http://gamecodeschool.com/courses/android-game-programming/)
-  
+  - Working on Responsive Web Design Certification (300 hours) on [freecodecamp.org](http://www.freecodecamp.org);
 **Newcastle University**
 
   - Year 3 (*N/A - aiming to achieve a first*)
