@@ -2,7 +2,9 @@
 Feel free to browse my [portfolio](https://Steven-Kirby.github.io) and [github repository](https://github.com/Steven-Kirby)
 ## A Little Bit About Me
 
-I am a **mature student** studying on a 3 year undergraduate course in **Computer Science(Game Eng)** at **Newcastle University** in my final year of study.
+I am a **mature student** studying on a 3 year undergraduate course in **Computer Science(Game Eng)** at **Newcastle University** in my final year of study. 
+
+I am interested in doing the **Masters Course** for this subject also but am undecided as to whether to do this next year or to get into work straight away.
 
 Looking to get into **programming within the games industry**.
 
@@ -23,7 +25,7 @@ This is based on the classic nokia game Snake, i hope to add extra interesting f
 ## Past Projects ##
 View my [past projects on GitHub here](https://github.com/Steven-Kirby) to see what i have worked on in the past.
 
-**Team Project** - [download app for android(auto 4.9mb)](http://retrohub.co.uk/app.php) (*university*) 
+**Team Project** - Seaton Valley App (*university*) 
 
 App for local council called seaton valley (Java)
 
@@ -31,7 +33,7 @@ App for local council called seaton valley (Java)
 
 Have a look at some of the code involved for [Seaton-Valley-Council-App](https://github.com/Steven-Kirby/Seaton-Valley-Council-App)
 
-**Website** - [retrohub.co.uk](http://retrohub.co.uk) (*personal*)
+**Website** - retrohub.co.uk (*personal*)
 
 retrohub.co.uk is a ecommerce site for selling retro video games such as N64 and PS1, 360 degree view of items photographed in 35 images(not recommended for 3g/4g mobile data viewing). 
 
